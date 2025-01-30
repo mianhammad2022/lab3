@@ -18,3 +18,10 @@ int num1 = Convert.ToInt32(Console.ReadLine);
 Console.WriteLine("enter second number");
 int num2 = Convert.ToInt32(Console.ReadLine);
 double multiplication = num1 *num2
+//division
+Console.WriteLine("enter fisrt number");
+int num1 = Convert.ToInt32(Console.ReadLine);
+Console.WriteLine("enter second number");
+int num2 = Convert.ToInt32(Console.ReadLine);
+double division = num1 / num2
+
